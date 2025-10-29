@@ -1,4 +1,4 @@
 # GitHub-Demo
 This is my first Git Repository.
 <br>
-Author - Vishal abc mars
+Author - Vishal abc mars (vishal yadav)
